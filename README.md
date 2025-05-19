@@ -12,3 +12,6 @@
 
 <video src="https://github.com/user-attachments/assets/39a51799-9aa2-48b6-b7c0-8f946284fa09"></video>
 
+## [Medial-Lateral position plot](https://yiqihou.github.io/spharm-myogenesis-figures/48h_positional_UMAP.html)
+
+## [Developmental plot](https://yiqihou.github.io/spharm-myogenesis-figures/all_times_UMAP.html)
